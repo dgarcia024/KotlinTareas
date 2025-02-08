@@ -11,7 +11,7 @@ fun main() {
     val valor: Boolean = false
 
 
-    // suma de 2 numeros
+    // suma de 2 números
     val suma1 = numeroEntero + numeroFlotante
     val suma2 = numeroEntero + numeroDoble
     val suma3 = numeroFlotante + numeroDoble
