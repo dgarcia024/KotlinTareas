@@ -27,7 +27,7 @@ fun main() {
     var comparacion1 = numeroEntero > numeroFlotante
     var comparacion2 = numeroFlotante < numeroDoble
     var comparacion3 = numeroDoble > numeroEntero
-    println("$numeroEntero es mayor $numeroFlotante? = $comparacion1")
+    println("$numeroEntero es mayor que $numeroFlotante? = $comparacion1")
     println("$numeroFlotante es menor que $numeroDoble? = $comparacion2")
-    println("$numeroDoble es mayor que $numeroEntero? = ${comparacion3}")
+    println("$numeroDoble es mayor que $numeroEntero? = $comparacion3")
 }
